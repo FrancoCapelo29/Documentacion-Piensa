@@ -1,0 +1,44 @@
+.cuerpo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(193, 249, 250, 0.459);
+}
+
+.ob{
+    color: red;
+}
+
+.fg{
+    font-size: 12px;
+}
+
+.tr{
+   font-size: 100px;
+}
+
+.seg{
+    font-size: 20px;
+}
+
+.indi{
+    font-size: 80px;
+}
+
+.id{
+    font-size: 20px;
+}
+
+.tec{
+    color: red;
+}
+
+.in{
+color: red;
+}
+
+.inv{
+color: red;
+}
+
+.inve{
+color: red;
+}
